@@ -1,8 +1,8 @@
 
-var a;
+var i;
 
-for(a=5; a > 0; a--){
-    console.log('coba ' + a);
+for(i=5; i > 0; i--){
+    console.log('cobi ' + i);
 }
 //==========================================
 
